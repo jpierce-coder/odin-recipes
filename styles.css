@@ -1,0 +1,30 @@
+body {
+    background-image: url("./images/cookingTable.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.reg-heading {
+    color: midnightblue;
+    text-decoration: underline;
+}
+
+.main-heading {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 64px;
+}
+
+.sub-heading {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 36px;
+    color: darkred;
+}
+
+.recipe-list {
+    text-align: left;
+}
+
+.recipe-child {
+    text-transform: uppercase;
+    font-size: xx-large;
+}
